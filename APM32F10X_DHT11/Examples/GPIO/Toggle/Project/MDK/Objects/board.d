@@ -1,0 +1,16 @@
+.\objects\board.o: ..\..\..\..\..\Board\Board.c
+.\objects\board.o: ..\..\..\..\..\Board\Board.h
+.\objects\board.o: ..\..\..\..\..\Board\Board_APM32F103_MINI.h
+.\objects\board.o: ..\..\..\..\..\Library\Device\Geehy\APM32F10x\Include\apm32f10x.h
+.\objects\board.o: ..\..\..\..\..\Library\CMSIS\Include\core_cm3.h
+.\objects\board.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\board.o: ..\..\..\..\..\Library\CMSIS\Include\cmsis_version.h
+.\objects\board.o: ..\..\..\..\..\Library\CMSIS\Include\cmsis_compiler.h
+.\objects\board.o: ..\..\..\..\..\Library\CMSIS\Include\cmsis_armcc.h
+.\objects\board.o: ..\..\..\..\..\Library\Device\Geehy\APM32F10x\Include\system_apm32f10x.h
+.\objects\board.o: ..\..\..\..\..\Library\APM32F10x_StdPeriphDriver\inc\apm32f10x_gpio.h
+.\objects\board.o: ..\..\..\..\..\Library\APM32F10x_StdPeriphDriver\inc\apm32f10x_rcm.h
+.\objects\board.o: ..\..\..\..\..\Library\APM32F10x_StdPeriphDriver\inc\apm32f10x_eint.h
+.\objects\board.o: ..\..\..\..\..\Library\APM32F10x_StdPeriphDriver\inc\apm32f10x_usart.h
+.\objects\board.o: ..\..\..\..\..\Library\APM32F10x_StdPeriphDriver\inc\apm32f10x_misc.h
+.\objects\board.o: ..\..\..\..\..\Board\Board_APM32F103_MINI.c

@@ -1,0 +1,4 @@
+--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\Include -I ..\..\..\..\..\Board -I ..\..\..\..\..\Library\APM32F10x_StdPeriphDriver\inc -I ..\..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\..\Library\Device\Geehy\APM32F10x\Include -I ..\..\..\..\..\Library\DHT11
+-ID:\Users\geehy\AppData\Local\Arm\Packs\Geehy\APM32F1xx_DFP\1.0.7\Device\Include
+-D__UVISION_VERSION="535" -DAPM32F10X_MD -DAPM32F10X_HD -DAPM32F103_MINI
+-o .\objects\apm32f10x_int.o --omf_browse .\objects\apm32f10x_int.crf --depend .\objects\apm32f10x_int.d "..\..\Source\apm32f10x_int.c"

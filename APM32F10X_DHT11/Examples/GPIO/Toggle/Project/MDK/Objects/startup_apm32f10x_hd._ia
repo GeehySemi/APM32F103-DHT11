@@ -1,0 +1,4 @@
+--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"
+-ID:\Users\geehy\AppData\Local\Arm\Packs\Geehy\APM32F1xx_DFP\1.0.7\Device\Include
+--pd "__UVISION_VERSION SETA 535" --pd "APM32F10X_MD SETA 1"
+--list .\listings\startup_apm32f10x_hd.lst --xref -o .\objects\startup_apm32f10x_hd.o --depend .\objects\startup_apm32f10x_hd.d "..\..\..\..\..\Library\Device\Geehy\APM32F10x\Source\arm\startup_apm32f10x_hd.s"
